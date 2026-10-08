@@ -1,1 +1,1 @@
-Ahoj světe, používám GIT!!!
+Soubor změněný na GitHub
