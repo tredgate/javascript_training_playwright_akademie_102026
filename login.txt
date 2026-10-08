@@ -1,1 +1,9 @@
-Ahoj světe, používám GIT!!!
+Označení konfliktu dvou commitů.
+HEAD = Lokální změna
+6ad60 = Změna z merge (v tomto případě z GitHub)
+
+<<<<<<< HEAD
+Tento text jsme vložili na lokálu
+=======
+Soubor změněný na GitHub
+>>>>>>> 6ad604754444872e05d910e859c11a2bd957d656
